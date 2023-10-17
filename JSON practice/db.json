@@ -1,0 +1,34 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "name": "abc",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "def",
+      "age": 20
+    },
+    {
+      "id": 3,
+      "name": "ghi",
+      "age": 19
+    },
+    {
+      "id": 4,
+      "name": "jkl",
+      "age": 22
+    },
+    {
+      "id": 5,
+      "name": "mno",
+      "age": 23
+    },
+    {
+      "name": "rajat",
+      "age": 30,
+      "id": 6
+    }
+  ]
+}
